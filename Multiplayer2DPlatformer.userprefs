@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Aptana workspace/gnokk_beta03/Assets/Game/Scripts/GuildInformation/GuildInformationManager.cs">
+    <Files>
+      <File FileName="../../Aptana workspace/gnokk_beta03/Assets/Game/Scripts/Guild/GuildManager.cs" Line="242" Column="33" />
+      <File FileName="../../Aptana workspace/gnokk_beta03/Assets/Game/Scripts/Util/GridTool.cs" Line="3" Column="14" />
+      <File FileName="../../Aptana workspace/gnokk_beta03/Assets/Game/Scripts/Common/ReverseButtonImage.cs" Line="43" Column="3" />
+      <File FileName="../../Aptana workspace/gnokk_beta03/Assets/Game/Scripts/GuildInformation/GuildInformationManager.cs" Line="950" Column="3" />
+      <File FileName="../../Aptana workspace/gnokk_beta03/Assets/Game/Scripts/GuildInformation/GuildInformationPopups.cs" Line="254" Column="26" />
+      <File FileName="../../Aptana workspace/gnokk_beta03/Assets/Game/Scripts/Guild/UIDataContainer.cs" Line="16" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
